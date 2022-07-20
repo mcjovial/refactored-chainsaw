@@ -284,6 +284,19 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
+"@blaitware/common@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@blaitware/common/-/common-1.0.3.tgz#66cde4df4e99a064fc7fd38d0742f0b606113159"
+  integrity sha512-f+yJOplpF6mI1IzjXqcec47Rtbu9FiwNBAd+ZZZw5n7awLbT0EZbfUFVLDYy2hhaqxlgjttxbnG62oT17jEgRQ==
+  dependencies:
+    "@types/cookie-session" "^2.0.44"
+    "@types/express" "^4.17.13"
+    "@types/jsonwebtoken" "^8.5.8"
+    cookie-session "^2.0.0"
+    express "^4.18.1"
+    express-validator "^6.14.2"
+    jsonwebtoken "^8.5.1"
+
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
   resolved "https://registry.yarnpkg.com/@cspotcode/source-map-support/-/source-map-support-0.8.1.tgz#00629c35a688e05a88b1cda684fb9d5e73f000a1"
